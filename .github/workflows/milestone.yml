@@ -9,4 +9,4 @@ jobs:
         steps:
             - uses: instantish/milestone-closer@v1.1.0
               with:
-                  repo-token: ${{ secrets.ILMTEST_REPO_PAT }}
+                  repo-token: ${{ secrets.REPO_PAT }}
