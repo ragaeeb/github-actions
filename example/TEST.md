@@ -1,3 +1,3 @@
-Example link. Should be broken please.
+Example link.
 
 - [Create Issue Branch](https://github.com/robvanderleek/create-issue-branch)

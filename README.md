@@ -2,6 +2,8 @@
 
 This repository contains some examples of some useful GitHub actions with examples. You can find more useful GitHub actions [here](https://github.com/sdras/awesome-actions).
 
+[GitHub Actions Events](https://docs.github.com/en/actions/reference/events-that-trigger-workflows)
+
 ## A list of actions used in this repo.
 
 - [Create Issue Branch](https://github.com/robvanderleek/create-issue-branch)
@@ -10,7 +12,6 @@ This repository contains some examples of some useful GitHub actions with exampl
 - [Pull Request Labeler](https://github.com/actions/labeler)
 - [Markdown link check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
 - [Close milestones that are done](https://github.com/instantish/milestone-closer)
-- [GitHub Pull Request](https://github.com/repo-sync/pull-request)
 - [Wiki Page Creator GitHub Action](https://github.com/Decathlon/wiki-page-creator-action)
 
 ### IDE
