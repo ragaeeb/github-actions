@@ -9,7 +9,6 @@ This repository contains some examples of some useful GitHub actions with exampl
 - [Create Issue Branch](https://github.com/robvanderleek/create-issue-branch)
 - [Version Bumper](https://github.com/phips28/gh-action-bump-version)
 - [Issue Label Manager Action](https://github.com/lannonbr/issue-label-manager-action)
-- [Pull Request Labeler](https://github.com/actions/labeler)
 - [Markdown link check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
 - [Close milestones that are done](https://github.com/instantish/milestone-closer)
 - [Wiki Page Creator GitHub Action](https://github.com/Decathlon/wiki-page-creator-action)
