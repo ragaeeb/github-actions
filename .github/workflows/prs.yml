@@ -4,6 +4,7 @@ on:
       - "f/*"
       - "b/*"
       - "t/*"
+      - "issue-*"
 
 jobs:
   pull-request:
