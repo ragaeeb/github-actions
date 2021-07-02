@@ -1,7 +1,8 @@
 name: Check Markdown links
 
 on:
-  - pull_request
+    pull_request:
+        types: [opened, ready_for_review, edited]
 
 jobs:
   markdown-link-check:

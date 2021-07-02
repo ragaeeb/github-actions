@@ -2,6 +2,8 @@
 
 This repository contains some examples of some useful GitHub actions with examples. You can find more useful GitHub actions [here](https://github.com/sdras/awesome-actions).
 
+[GitHub Actions Events](https://docs.github.com/en/actions/reference/events-that-trigger-workflows)
+
 ## A list of actions used in this repo.
 
 - [Create Issue Branch](https://github.com/robvanderleek/create-issue-branch)
